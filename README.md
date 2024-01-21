@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LoNyptRI)
 
-#Padrão Iterator
+# Padrão Iterator
 
-##Descrição
+## Descrição
 
 O padrão de projeto Iterator é um padrão de projeto comportamental que fornece uma maneira de acessar os elementos de uma coleção, sem precisar saber como a coleção é implementada. 
 
